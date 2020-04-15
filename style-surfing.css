@@ -1,0 +1,17 @@
+.jumbotron {
+  /* Choisis la hauteur ici */
+  height: 500px;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("https://images.unsplash.com/photo-1551304885-7d8cc4ac849e?ixlib=rb-1.2.1&auto=format&fit=crop&w=625&q=80");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
